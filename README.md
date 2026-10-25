@@ -1,2 +1,2 @@
 # minuma
-minuma repo
+minuma repo for git command demonstration
